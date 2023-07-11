@@ -1,7 +1,11 @@
 # Mariners Pitching Analysis Project
 Excel and SQL Project to analyze different questions based on the Mariners pitching from the 2022 season.
 
-Datasets:
+**Datasets used** 
+
+<a href="https://baseballsavant.mlb.com/statcast_search"> https://baseballsavant.mlb.com/statcast_search </a>
+
+<a href="https://www.baseball-reference.com/teams/SEA/2022.shtml"> https://www.baseball-reference.com/teams/SEA/2022.shtml </a>
 
 <hr></hr>
 
