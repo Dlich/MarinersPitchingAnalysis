@@ -14,7 +14,7 @@ This monumental achievement brought immense joy to Mariners fans, including myse
 
 # <u> Goal of the Project: </u>
 
-The goal of the project is to go through the thought process of data exploration (learning, cleaning and preparing the data) and delve into the process of importing this refined data into a SQL database, paving the way for insightful analysis through SQL queries.
+The goal of this project was to go through the thought process of data exploration (learning, cleaning and preparing the data) and delve into the process of importing this refined data into a SQL database, paving the way for insightful analysis through SQL queries.
 
 # <u> Data exploration and data cleaning </u>
 
