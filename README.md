@@ -4,7 +4,7 @@ As a Seattle native, I've always been passionate about the Seattle Mariners, my 
 
 This monumental achievement brought immense joy to Mariners fans, including myself. It was particularly fascinating to observe the crucial role played by our pitching staff in this triumph. Consequently, I embarked on an in-depth analysis of our pitching performance to assess the true effectiveness of our team on the mound.
 
-**Datasets used** 
+**Datasets Used** 
 
 <a href="https://baseballsavant.mlb.com/statcast_search"> https://baseballsavant.mlb.com/statcast_search </a>
 
@@ -14,7 +14,7 @@ This monumental achievement brought immense joy to Mariners fans, including myse
 
 # <u> Goal of the Project: </u>
 
-The goals of this project were to improve and showcase my excel and SQL skills with some databases that I've never used before. 
+The goal of the project is to go through the thought process of data exploration (learning, cleaning and preparing the data) and delve into the process of importing this refined data into a SQL database, paving the way for insightful analysis through SQL queries.
 
 # <u> Data exploration and data cleaning </u>
 
