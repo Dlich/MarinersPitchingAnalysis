@@ -18,14 +18,11 @@ The goal of this project was to go through the thought process of data explorati
 
 # <u> Data exploration  </u>
 
-talk about the data sets and what i did to clean them
+To initiate my analysis, I obtained the first dataset from Baseball Savant, a reliable source that directly retrieves data from the MLB. The credibility and validity of these datasets were ensured, as they are sourced directly from the MLB. Accessing the pitching data for the 2022 season was conveniently straightforward, as it was available for download as a CSV file.
 
-The first dataset I downloaded was from Baseball Savant, and the datasets from this website come directly from the MLB which means they are pretty valid and acceptable. It was also easily accesible to download the pitching data from the 2022 season as a CSV file. This dataset originally had many empty columns, and many random columns that weren't needed for the questions I was analyzing. Thus I was able to clean up the data by removing those columns to ensure i only had the columns that i needed. There were also a few columns with rows that didn't have the proper values in place (talk about the column with no home run location). I was able to figure out what the proper data would be to insert into those rows and ensure each column had the proper data i needed for my analysis.
+Upon examining the dataset, I discovered several empty and extraneous columns that were irrelevant to the specific questions I aimed to address. Consequently, I performed a thorough data cleaning process by removing unnecessary columns such as 'pfx_x', 'pfx_z', and others, as they were not required for my SQL queries. Furthermore, I encountered instances where certain columns, such as 'bb_type', contained rows with improper values. Specifically, the rows pertaining to the last pitch resulting in a strikeout were empty. To rectify this issue, I replaced each of those empty cells with the designated value 'Strikeout', ensuring the column could be effectively utilized in SQL queries. By diligently analyzing the dataset, I successfully determined the appropriate data to insert into these rows, ensuring that each column contained the necessary information for my analysis.
 
-The next dataset I downloaded from was the specific player pitching stats from each mariners pitcher on baseball reference. Baseball reference is wildly used to track baseball stats so the data also was valid and acceptable. This dataset was a lot more cleaned up than the baseball savant data set which means i didnt have to delete any columns because each one was important for the analysis, and each column had data for each row. There were a couple header rows that needed to be deleted, but overall the data cleaning was done quickly and efficiently.
-
-
-
+After cleaning up the Baseball Savant data, I proceeded to download the data from each Mariners pitcher on Baseball Reference. This platform is widely recognized for tracking baseball statistics, ensuring the validity and acceptability of the data. Unlike the Baseball Savant dataset, this particular dataset was already well-organized, eliminating the need to remove any columns. Each column contained crucial information necessary for the analysis, and all rows were populated with data. Although a few header rows required deletion, the overall data cleaning process was swift and efficient.
 
 <hr></hr>
 
