@@ -51,3 +51,5 @@ Collectively, my objective was to showcase significant statistics derived from t
 <hr></hr>
 
 # <u> Conclusion </u>
+
+This Mariners Pitching Analysis project not only provided valuable insights into the team's performance but also allowed me to further deepen my appreciation for the Mariners' journey. This project served as one of my initial forays into data analysis, allowing me to enhance my proficiency in Excel and SQL. Through the meticulous exploration and analysis of the data using SQL queries, I successfully unearthed hidden patterns, evaluated critical metrics, and gained a comprehensive understanding of the team's exceptional pitching prowess. Consequently, this project stands as a testament to the skill and dedication exhibited by the Mariners' pitching staff throughout the unforgettable 2022 season. It has been a rewarding experience that has contributed significantly to my growth as a data analyst.
