@@ -28,14 +28,14 @@ After cleaning up the Baseball Savant data, I proceeded to download the data fro
 
 # <u> SQL Analysis </u>
 
-talk about some of the sql questions i did and show some screenshots from the queries
 
 In order to thoroughly analyze the Mariners' pitching performance, I structured my analysis into four comprehensive sections, each with specific sub-questions that I aimed to answer. These overarching sections were as follows:
 
-Average Pitches per At-Bat
-Last Pitch Analysis for Each Mariners Pitcher
-Home Run Analysis
-Pitching Stats from Mariners Pitcher George Kirby
+1. Average Pitches per At-Bat
+2. Last Pitch Analysis for Each Mariners Pitcher
+3. Home Run Analysis
+4. Pitching Stats from Mariners Pitcher George Kirby
+   
 For each of these sections, I formulated 4-5 targeted questions to gain deep insights into the Mariners' pitching prowess.
 
 For example, in Section 1, I crafted queries to determine the average number of pitches thrown per at-bat, the average number of pitches thrown per at-bat for both right-handed and left-handed batters, and the average number of pitches per at-bat for pitchers with over 20 innings pitched, sorted in descending order.
