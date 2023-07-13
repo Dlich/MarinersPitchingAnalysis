@@ -30,22 +30,23 @@ After cleaning up the Baseball Savant data, I proceeded to download the data fro
 
 talk about some of the sql questions i did and show some screenshots from the queries
 
-For my analysis I had 4 overarching sections, and sub questions for each section that I wanted to answer. My overarching sections were:
+In order to thoroughly analyze the Mariners' pitching performance, I structured my analysis into four comprehensive sections, each with specific sub-questions that I aimed to answer. These overarching sections were as follows:
 
-1. Average pitches per at bat
-2. Last pitch analysis for each Mariners pitcher
-3. Homerun analysis
-4. Pitching Stats from Mariners Pitcher George Kirby
+Average Pitches per At-Bat
+Last Pitch Analysis for Each Mariners Pitcher
+Home Run Analysis
+Pitching Stats from Mariners Pitcher George Kirby
+For each of these sections, I formulated 4-5 targeted questions to gain deep insights into the Mariners' pitching prowess.
 
-For each of these section I had 4-5 questions to be able to analyze how the mariners pitching was. 
+For example, in Section 1, I crafted queries to determine the average number of pitches thrown per at-bat, the average number of pitches thrown per at-bat for both right-handed and left-handed batters, and the average number of pitches per at-bat for pitchers with over 20 innings pitched, sorted in descending order.
 
-For example, for section 1, I created queries to find how many average pitches were thrown per at bat, average pitchers thrown per at bat for righty and lefty batters, and average pitchers per at bat per pithcer with 20+ innings in descending order. 
+In Section 2, I explored inquiries such as the percentage of last pitches categorized as fastballs or offspeed balls (offspeed being defined as pitches below 95 mph) and the top 5 most frequently used last pitches by relief pitchers compared to starting pitchers.
 
-For section 2, I had questions such as the percentage of last pitches depending if it was a fastball or offspeed ball (offspeed being less than 95 mph) and top 5 most common last pitches for a relief pitcher vs a starting pitcher. For section 3, I asked questions on what kind of pitches gave up the most home runs, and top 5 most common home runs given by pitching zone and pitch.
+Section 3 focused on questions regarding the types of pitches that resulted in the most home runs and the top 5 home runs surrendered categorized by pitching zone and pitch type.
 
-For the final section, I focused on the pitching stats for one of my favorite pitchers George Kirby. Kirby really stood out on the pitching staff last year as a great young pitcher, and i asked questions to determine his Avergae release speed, spin rate, strikeouts and most popular pitching zone on where his pitches would go, as well as what pitche caused the lowest launch speed.
+For the final section, I directed my attention to one of my favorite pitchers, George Kirby, who emerged as a standout on the pitching staff last year. I delved into his average release speed, spin rate, strikeout statistics, the most popular pitching zone for his pitches, and the pitch type that yielded the lowest launch speed.
 
-Overall I wanted to show some important statistics with SQL queries i made for the overall mariners pitchers and show how our pitching was super strong in the 2022 season.
+Collectively, my objective was to showcase significant statistics derived from the SQL queries I created, highlighting the exceptional strength of the Mariners' pitching during the remarkable 2022 season..
 
 <hr></hr>
 
